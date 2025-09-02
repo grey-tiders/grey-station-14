@@ -75,3 +75,38 @@
   license: "CC-BY-NC-SA-3.0"
   copyright: "every light is blinking at once by Sunbeamstress/Lauren Loveless."
   source: "https://soundcloud.com/sunbeamstress/every-light-is-blinking-at-once"
+
+- files: ["tintin2.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Tintin on the Moon by Fred Gray/Tomas Danko."
+  source: "https://www.youtube.com/watch?v=J6J7BAno_s4"
+
+- files: ["deja_vu.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Deja Vu by Mort Garson."
+  source: "https://www.youtube.com/watch?v=AumYP6Np1eI"
+
+- files: ["clown.wmv.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Clown.wmv by Admiral Hippie."
+  source: "https://www.youtube.com/watch?v=9whQIbNmu9s"
+
+- files: ["Monument.ogg"]
+  license: "CC-BY-NC-SA-3.0"
+  copyright: "Monument by Six Umbrellas."
+  source: "https://sixumbrellas.bandcamp.com/album/the-psychedelic-and"
+
+- files: ["myunmyun.ogg"]
+  license: "CC0"
+  copyright: "Myun Myun by Chakra (チャクラ)."
+  source: "https://www.youtube.com/watch?v=rrNcsouDBMA"
+
+- files: ["shibamata.ogg"]
+  license: "CC0"
+  copyright: "Shibamata midi by 虹."
+  source: "https://www.nicovideo.jp/watch/sm32841166"
+
+- files: ["squids.ogg"]
+  license: "CC0"
+  copyright: "Squids by Sewerslvt."
+  source: "https://www.youtube.com/watch?v=SCbtxbEzjD8"
