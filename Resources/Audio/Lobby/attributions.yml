@@ -97,16 +97,16 @@
   source: "https://sixumbrellas.bandcamp.com/album/the-psychedelic-and"
 
 - files: ["myunmyun.ogg"]
-  license: "CC0"
+  license: "Custom"
   copyright: "Myun Myun by Chakra (チャクラ)."
   source: "https://www.youtube.com/watch?v=rrNcsouDBMA"
 
 - files: ["shibamata.ogg"]
-  license: "CC0"
+  license: "Custom"
   copyright: "Shibamata midi by 虹."
   source: "https://www.nicovideo.jp/watch/sm32841166"
 
 - files: ["squids.ogg"]
-  license: "CC0"
+  license: "Custom"
   copyright: "Squids by Sewerslvt."
   source: "https://www.youtube.com/watch?v=SCbtxbEzjD8"
