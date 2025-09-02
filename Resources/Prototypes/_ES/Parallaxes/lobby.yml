@@ -1,0 +1,14 @@
+- type: parallax
+  id: ESLobbyTheater
+  layers:
+  - texture:
+      !type:ImageParallaxTextureSource
+      path: "/Textures/_ES/Parallaxes/writhing.png"
+    slowness: 1
+    scale: "0.5, 0.5"
+  layersLQ:
+  - texture:
+      !type:GeneratedParallaxTextureSource
+      id: "void"
+      configPath: "/Prototypes/_ES/Parallaxes/parallax_config_void.toml"
+  layersLQUseHQ: false
