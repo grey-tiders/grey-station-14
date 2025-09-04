@@ -32,6 +32,9 @@ Just make sure your changes and pull requests are in accordance with the [contri
 
 We are not currently accepting translations of the game on our main repository. If you would like to translate the game into another language, consider creating a fork or contributing to a fork.
 
+If you make any contributions, please make sure to read the markers section in [MARKERS.md](https://github.com/grey-tiders/grey-station-14/MARKERS.md)
+Any changes made to files belonging to our upstream should be properly marked in accordance to what is specified there.
+
 ## Building
 
 1. Clone this repo:
